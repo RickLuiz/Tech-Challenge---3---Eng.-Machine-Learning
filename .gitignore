@@ -2,3 +2,4 @@ venv
 airlines.csv
 airports.csv
 flights.csv
+dados_voos_limpos.pkl
